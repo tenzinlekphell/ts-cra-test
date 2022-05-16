@@ -10,6 +10,7 @@ interface Props {
   name?: string;
   age?: number;
   email?: string;
+  location?: string;
   dogBreed?: DogBreed;
   //getName: (name: string) => string;
 }
