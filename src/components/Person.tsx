@@ -11,6 +11,7 @@ interface Props {
   age?: number;
   email?: string;
   location?: string;
+  priceOfDog?: number;
   dogBreed?: DogBreed;
   //getName: (name: string) => string;
 }
